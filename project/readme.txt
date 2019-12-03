@@ -1,0 +1,1 @@
+You can open the OOP_Shop_Project.jar file to run the program. 
